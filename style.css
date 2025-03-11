@@ -1,0 +1,82 @@
+body{
+    display: grid;
+    background-color:rgb(240, 209, 163);
+    font-family: 'Big Shoulders Stencil';
+    ;
+}
+header{
+    border-bottom: 0.2rem dotted #deb887;
+}
+header h1{
+    float: left;
+    margin-left: 2rem;
+}
+nav{
+    float: right;
+}
+nav ul{
+    list-style-type: none; 
+    margin-right: 4rem;
+    padding-top: 1rem;
+}
+nav li{
+    display: inline;
+    padding-left: 2rem;
+}
+nav a{
+    text-decoration: none;
+    color: #000000;
+}
+#aboutme{
+    float: left;
+    width: 50%;
+    height: auto;
+    margin-left: 2rem;
+    font-size: 1.2rem;
+}
+aside{
+    
+    margin-left: 50rem;
+}
+img{
+    width: 35%;
+    height: auto;
+    padding-top: .5rem;
+    
+}
+
+h2{
+    font-size: 2rem;
+    margin-left: 2rem;
+}
+ol{
+    font-size: 1.2rem;
+    margin-left: 2rem;
+    list-style-type:square;
+}
+h3{
+    font-size: 2rem;
+    margin-left: 2rem;
+}
+#skill img{
+    width: 3%;
+    height: auto;
+    display: inline;
+    margin-left: 2rem;
+}
+footer{
+    margin-top: 1rem;
+    text-align: center;
+    border-top: 0.2rem dotted #deb887 ;
+}
+footer h4{
+    padding: 1rem;
+    font-size: 1.5rem;
+}
+span{
+    font-style: italic;
+    padding-right: 1rem;
+}
+strong{
+    padding-left: 1rem;
+}
